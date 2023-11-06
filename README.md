@@ -28,3 +28,10 @@ NPM встановлено.
 Для встановлення інструменту **Gulp** виконайте наступні дії. Відкрийте **"Командний рядок"**
 або **термінал в IDE** якій ви працюєте, введіть наступні команди: <br> `npm install -g gulp` 
 <br> `npm install --save-dev gulp-archiver` <br> `npm install --save-dev gulp-sourcemaps`.
+
+## Використання:
+* Запустити програму
+* Відкрити **Terminal** ввести наступні команди: <br>
+  `gulp sass:debug` - для запуска дебаг збірки.  <br>
+  `gulp sass:production` - для запуску фінальної збірки.  <br>
+  `gulp archihe` - для упаковки проекту
